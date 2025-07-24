@@ -18,3 +18,5 @@ The data for this CSV comes from:
 * References: The "links" provided by Sefaria in their publicly available data dumps.
 
 If you have questions/suggestions, please open Issues or Pull Requests.
+If you'd like to see the same data in a different flatfile format, let me know... though you
+should also check out what Sefaria provides, because they might have what you're looking for.
